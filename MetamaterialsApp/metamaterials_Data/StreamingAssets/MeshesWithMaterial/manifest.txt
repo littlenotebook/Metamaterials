@@ -1,0 +1,17 @@
+hexagon_shell.obj
+hexagon_wireframe.obj
+hole_block_shell.obj
+hole_block_wireframe.obj
+hole_block_shell2.obj
+microstructure.obj
+personal_curve_wireframe.obj
+personal_shell_flat.obj
+schwarz_p_shell.obj
+schwarz_p_wireframe.obj
+snowflake_wireframe.obj
+star_beams.obj
+star_truss.obj
+tetrahedron_curved.obj
+tetrahedron_mixed.obj
+tetrahedron_shell.obj
+tetrahedron_wireframe.obj

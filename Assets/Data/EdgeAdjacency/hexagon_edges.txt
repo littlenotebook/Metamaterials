@@ -1,0 +1,55 @@
+# Bottom square edges
+0 1
+1 2
+2 3
+3 0
+
+# Bottom square to first hexagon connections
+0 4
+0 9
+1 4
+1 7
+2 6
+2 7
+3 5
+3 6
+
+# First hexagon ring (bottom)
+4 5
+5 6
+6 7
+7 8
+8 9
+9 4
+
+# Connections between hexagon layers
+4 10
+5 11
+6 12
+7 13
+8 14
+9 15
+
+# Second hexagon ring (top)
+10 11
+11 12
+12 13
+13 14
+14 15
+15 10
+
+# Top square to second hexagon connections
+16 10
+16 15
+17 10
+17 13
+18 12
+18 13
+19 11
+19 12
+
+# Top square edges
+16 17
+17 18
+18 19
+19 16

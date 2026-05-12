@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03289f891da6b4e50800064135b2a232, type: 3}
+  m_Name: MicrostructureLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::Microstructure.MicrostructureLibrary
+  entries:
+  - displayName: Tetrahedron Shell
+    jsonAsset: {fileID: 4900000, guid: acd7bd05c45594952a3788994b39f64d, type: 3}
+    nodePrefabOverride: {fileID: 7670958902813969161, guid: 5b95eda1d5a80412a83581816409a9fc, type: 3}
+    edgePrefabOverride: {fileID: 1095877846217575242, guid: 8fb5f56e27fa045d7b611364755d2127, type: 3}
+    facePrefabOverride: {fileID: 3466953157594716633, guid: 7196df0e0c19d4075a5c6ab15f3e8699, type: 3}
+    parsedName: 
+    numActiveNodes: 0
+    numEdges: 0
+    numFaces: 0
+    totalNodes: 0
+  - displayName: Hexagon Shell
+    jsonAsset: {fileID: 4900000, guid: 16c820f8dc85a4972b15a05b2965d51e, type: 3}
+    nodePrefabOverride: {fileID: 7670958902813969161, guid: 5b95eda1d5a80412a83581816409a9fc, type: 3}
+    edgePrefabOverride: {fileID: 1095877846217575242, guid: 8fb5f56e27fa045d7b611364755d2127, type: 3}
+    facePrefabOverride: {fileID: 3466953157594716633, guid: 7196df0e0c19d4075a5c6ab15f3e8699, type: 3}
+    parsedName: 
+    numActiveNodes: 0
+    numEdges: 0
+    numFaces: 0
+    totalNodes: 0
+  - displayName: Tetrahedron Curved
+    jsonAsset: {fileID: 4900000, guid: fd2205385a56e480d884dfec0796ec04, type: 3}
+    nodePrefabOverride: {fileID: 7670958902813969161, guid: 5b95eda1d5a80412a83581816409a9fc, type: 3}
+    edgePrefabOverride: {fileID: 1095877846217575242, guid: 8fb5f56e27fa045d7b611364755d2127, type: 3}
+    facePrefabOverride: {fileID: 3466953157594716633, guid: 7196df0e0c19d4075a5c6ab15f3e8699, type: 3}
+    parsedName: 
+    numActiveNodes: 0
+    numEdges: 0
+    numFaces: 0
+    totalNodes: 0
+  - displayName: Schwarz P Wireframe
+    jsonAsset: {fileID: 4900000, guid: a0c20bbf9cab64b94b6bc6953745b8fd, type: 3}
+    nodePrefabOverride: {fileID: 7670958902813969161, guid: 5b95eda1d5a80412a83581816409a9fc, type: 3}
+    edgePrefabOverride: {fileID: 1095877846217575242, guid: 8fb5f56e27fa045d7b611364755d2127, type: 3}
+    facePrefabOverride: {fileID: 3466953157594716633, guid: 7196df0e0c19d4075a5c6ab15f3e8699, type: 3}
+    parsedName: 
+    numActiveNodes: 0
+    numEdges: 0
+    numFaces: 0
+    totalNodes: 0
+  - displayName: Snowflake Wireframe
+    jsonAsset: {fileID: 4900000, guid: ffa148eca950543bd92c3dec469b9e78, type: 3}
+    nodePrefabOverride: {fileID: 7670958902813969161, guid: 5b95eda1d5a80412a83581816409a9fc, type: 3}
+    edgePrefabOverride: {fileID: 1095877846217575242, guid: 8fb5f56e27fa045d7b611364755d2127, type: 3}
+    facePrefabOverride: {fileID: 3466953157594716633, guid: 7196df0e0c19d4075a5c6ab15f3e8699, type: 3}
+    parsedName: 
+    numActiveNodes: 0
+    numEdges: 0
+    numFaces: 0
+    totalNodes: 0
